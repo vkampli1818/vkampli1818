@@ -21,7 +21,6 @@
 ## 🧠 Programming Languages & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
